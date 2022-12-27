@@ -1,4 +1,4 @@
-# IMDB-Sentiment-Analysis
+# IMDB Sentiment Analysis
 
 This project explores basic classifiers used for sentiment analysis using a dataset of 50000 movie reviews from IMDB. As my first foray into Natural Language Processing (NLP) and text analysis, much of the project serves as an exploration of text preprocessing techniques. I hope to return to this project to make improvements as I learn more from outside projects and coursework. Let's get started!
 
